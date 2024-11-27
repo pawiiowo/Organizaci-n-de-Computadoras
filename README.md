@@ -1,1 +1,2 @@
-# Organizaci-n-de-Computadoras
+# Organizacion
+-de-Computadoras
